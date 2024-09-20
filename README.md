@@ -22,15 +22,8 @@
 3. Дополнительно настроен клиент для отправки логов через **UDP** на локальный адрес.
 
 ## Скриншоты
+![image](https://github.com/user-attachments/assets/e3592dc1-0cb5-400e-89e8-081fd81f1ebe)
 
-- **Консольный вывод**:
-  ![Консольный вывод](https://via.placeholder.com/300x100)
-
-- **Файл с логами `app.log`**:
-  ![Логи в файле](https://via.placeholder.com/300x100)
-
-- **Отправленные UDP-сообщения**:
-  ![UDP-сообщение](https://via.placeholder.com/300x100)
 
 ## Код
 
